@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">Bottom bar with navigation drawer</string>
+    <!--Navigation drawer-->
+    <string name="drawer_item_option1"> Training and Placement</string>
+    <string name="drawer_item_settings">Settings</string>
+    <string name="drawer_item_help">Help</string>
+    <string name="drawer_item_contact">Contact</string>
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_option2">Departments</string>
+    <string name="drawer_item_option3">Career@KEC</string>
+
+    <string name="drawer_item_option11"> About Institute</string>
+    <string name="drawer_item_option12"> Admissions and Registrations</string>
+
+    <string name="abt"><b>Krishna Engineering College (KEC, Ghaziabad)</b> was established in 2004 by Friends Charitable Society (FCS) Ghaziabad.\nFCS has eminent Businessmen, Industrialists and Professionals as its members.\n FCS members are also associated with other leading Educational Institutions in NCR and other region of UP like <b>Krishna Institute of Engineering and Technology (KIET), Inderprastha Engineering College (IPEC)</b>, and <b>Krishna Dental College (KDC), Krishna Institute of Technology (KIOT), Krishna Girls Engineering College (KGEC), Krishna Institute of Management and Technology (KIMT).</b> \nKEC has been established as an institution for the millennium with a vision to turn out scholars who will be Global Players when they leave the portals of KEC.\n With this vision in the background, the college endeavours to impart core technical knowledge, help students develop requisite soft skills, instil an adaptability for change and builds cross cultural compatibility to its students. \nThe college is approved by <b>AICTE (Ministry of HRD, Government of India)</b> and is affiliated to <b>AKTU, Lucknow</b>.\n Starting with four programmes in B.Tech.,the college currently offers six programmes in B.Tech.(Computer Science and Engineering, Information Technology, Electronics and Communication Engineering, Electrical and Electronics Engineering, Mechanical Engineering and Civil Engineering) with an approved intake of 720 students/year.\n Within a span of 13 years, the college has established its credentials as an institution of repute by figuring among top 20 colleges of over 400 Engineering and Technology Institutions of AKTU in session 2016-17.\n The college infrastructure is a planned endeavour built over a period with care and concern keeping all the needs of a premier Engineering Institution.\n The campus is located in Mohan Nagar, Ghaziabad, next to IAF Station Hindon and is strategically located vis-a-vis Delhi (5 Km from border), Ghaziabad (6 Km), 12 km from Noida and other areas like Vasundhara, Vaishali and Kaushambi.\n The campus is spread over an area of 11 acres with plans for 3 academic blocks covering over 25000 Sq. meter of built up area, 3 Hostels (2 for boys and 1 for Girls) roughly with a capacity of 1000, an Auditorium, workshops, play grounds and quarters for the employees.
+</string>
+
+    <string name="admission1">
+        For information related to admission/registration :\n
+
+       Please Contact Reception.\n
+
+       (For more information)\n
+
+       Phone : \n
+       09999110887\n
+       09999110872\n
+       0120-2657731\n
+       0120-2657732\n
+       Telefax : 0120-2659513"</string>
+    <string name="admission2"><b>Admission Procedure (Session:2017-18)</b>\n
+
+Krishna Engineering College is affiliated to Dr. APJ Abdul Kalam Technical University, Lucknow (Formerly Uttar Pradesh Technical University, Lucknow) with College Code -161 and is approved by All India Council for Technical Education (AICTE), New Delhi.\n
+
+\n<b>ADMISSION TO B.TECH. FIRST YEAR (2017-18)\n</b>
+SEATS UNDER DIFFERENT SCHEME IN FIRST YEAR\n
+65%     seats in B.Tech. will be filled by the UPSEE qualified candidates through counselling\n
+20%     JEE-MAINS merit\n
+15%     Management quota\n
+
+<b>1. THROUGH UPSEE COUNSELLING:</b>\n
+Entrance Examination is open only to the candidates who have passed the qualifying examination from any institution located in U.P. or whose parents are domicile of U.P subject to the eligibility conditions given in this information Brochure. If the candidate has passed qualifying examination from outside U.P., he/she has to produce domicile certificate of his/her parents (Father OR Mother only) at the time of verification of the document.\n
+
+This Entrance Examination is also open to the candidates who have passed the qualifying examination from any institution located outside U.P. and whose parents (both Father and Mother) are not domicile of U.P subject to the eligibility conditions given in the Information Brochure.\n
+
+        <b>ELIGIBILITY TO APPEAR IN UPSEE FOR ADMISSION TO FIRST YEAR OF B.TECH.</b>\n
+    The subject combination required in the qualifying examination (intermediate examination of U. P. Board or 10+2 level examination or its equivalent) for admission to first year of different courses shall be as under:-\n
+    Course 	Compulsory Subjects 	Other Subject\n
+    B.Tech 	Physics and Mathematics 	Chemistry\n
+
+    For admission to first year of B.Tech, candidate must have clearly passed intermediate examination of U. P. Board or 10+2 level examination or its equivalent from any recognized Board/University without grace in required each compulsory subjects and one optional subject and securing minimum 45% marks (40% marks for SC/ST Category candidates) in required three subjects.\n
+    OR
+
+    Qualified candidates of JEE (Main)-2017 fulfilling the eligibility criteria for B.Tech. Their relative merit will be decided on their rank in respective entrance examination.\n
+
+State Govt. has permitted 20% of the total sanctioned seats available in private institutions to be filled on the basis of JEE-MAINS merit, out of which 10% seats will be filled through U.P. domicile candidates on U.P. Sate merit using state reservation policy and the remaining 10% seats will be filled through All India Merit candidates without reservation subject to eligibility conditions given in the brochure.\n
+
+        <b>3. THROUGH MANAGEMENT QUOTA AND VACANT SEATS:</b>\n
+15% of total sanctioned seats are to be filled under Management quota and vacant seats after counseling of UPSEE are to be filled as per UPTU guidelines for which the student has to register himself to the college through on-line registration or submit registration form to the college in person for appearing in the written test / interview to be held in the college at the time of admission before the selection committee. The admission under this category would be made purely on merit basis in following preference order:\n
+>> Firstly, by the qualified candidates of UPSEE, who fulfill the eligibility criteria as given in the information brochure. Their relative merit will be decided on their rank in UPSEE.\n
+>> Secondly, by the qualified candidates of JEE-MAINS. Their relative merit will be decided on their rank in respective entrance examinations.\n
+>> Thirdly, by the merit of candidates in qualifying (10+2) examination with the following conditions:
+
+For admission to first year of B. Tech., candidate must have passed intermediate examination of U. P. Board or 10+2 level examination or its equivalent from any recognized Board/University; securing minimum 50% (45% for SC/ST) marks in required subject combination (two compulsory and one optional) taken together. The candidate is essentially required to pass without any grace marks (as per respective Board/University) in each subject of the subject group indicated in information brochure of UPSEE. The relative merit shall be decided based on total marks in subject combination of qualifying examination.\n
+
+There is no age limit for admission to the courses covered in UPSEE.\n
+
+ADMISSION TO NON-RESIDENT INDIAN (NRI) CANDIDATES\n
+We have no sanctioned quota under this category as such we do not entertain admissions under this category.\n
+
+ADMISSION TO KASHMIRI MIGRANTS IN FIRST YEAR\n
+Direct admission to Kashmiri Migrants in first year is to be made as per the latest instructions of AICTE and orders from U.P. Govt. Such admissions will be over and above the sanctioned intake. Separate counseling is held for such category by the state govt.\n
+
+        <b>ADMISSION TO FEE WAIVER SEATS FOR ECONOMICALLY WEAKER MERITORIOUS STUDENTS</b>\n
+Fee waiver seats for economically weaker meritorious candidates are also available in B.Tech course. No tuition fee will be charged from the candidates admitted against such seats. The fee waiver seats will be limited to maximum of 5% of the approved intake in the course, and will be over and above of the sanctioned intake. The economically weaker students must submit Income Certificate at the time of counseling. These seats are allotted through UPSEE - counselling.\n
+
+        <b>2. DIRECT ADMISSION AGAINST VACANT SEATS:</b>\n
+As notified in UPSEE Information Brochure – 2017-18\n
+
+        <b>3. ADMISSION TO FEE WAIVER SEATS FOR ECONOMICALLY WEAKER MERITORIOUS STUDENTS</b>\n
+Fee waiver seats for economically weaker meritorious candidates are also available in B.Tech course. No tuition fee will be charged from the candidates admitted against such seats. The fee waiver seats will be limited to maximum of 5% of the approved intake in the course, and will be over and above of the sanctioned intake. The economically weaker students must submit Income Certificate at the time of admission. The economically weaker students must submit certificate no. 12 (Income Certificate) at the time of verification of documents. These seats are allotted only through UPSEE - counselling.\n
+
+
+<b>ADMISSION (LATERAL ENTRY) TO SECOND YEAR (FOR DIPLOMA HOLDERS and B.SC. GRADUATES)</b>\n
+
+1. Through UPSEE Counselling:\n
+The eligible candidates seeking direct admission to second year of B.Tech. (for engineering diploma holders and B.Sc. graduates) are required to submit the application forms by the last date. Such candidates are also required to appear in the specified paper of entrance examination. Such seats are limited to a maximum of 20% of previous year sanctioned intake. However, students belonging to B.Sc. stream shall be considered only after filling the seats in this category with students of Diploma stream.\n
+
+
+ELIGIBILITY TO APPEAR IN UPSEE:\n
+Lateral entry in B.Tech. for Engg. Diploma holders or B.Sc. Graduates with Mathematics as one of the subject at XII standard.\n
+
+Candidates who have passed ‘3 years Engg. Diploma from an Institution located in U.P. with minimum 45% marks (40% for SC/ST) OR ‘whose parents (Father or mother) are domicile of Uttar Pradesh’ and he/she has passed three years Engg. Diploma with minimum 45% marks (40% for SC/ST) recognized by the Board of Technical Education, U.P., in any branch of Engineering (except Agriculture Engg., Pharmacy and Architecture), are eligible for admission to Second year in any branch of Engineering / Technology.\n
+
+Candidates who have passed ‘3 years B.Sc. Degree and passed XII standard with mathematics as one of the subject' from any recognized University; securing minimum 45% marks (40% for SC/ST) in aggregate, are also eligible for admission to second year in any branch of Engineering/ Technology.\n
+
+2. DIRECT ADMISSION (LATERAL ENTRY) TO SECOND YEAR UNDER VACANT SEATS\n
+As notified in UPSEE Information Brochure – 2017-18 </string>
+    <string name="shilpi">
+        Ms. Shilpi Vaish
+
+Designation: Soft Skills Trainer
+Qualification: PGDBM, B. Tech(IT)
+Total Exp: 8 Years
+Email Id: shilpirana27@gmail.com</string>
+    <string name="nisha">Ms. Nisha Sharma\n
+
+Designation: Soft Skills Trainer\n
+Qualification: PGDM, B. Sc.(Mathematics)\n
+Total Exp: 7.5 Years\n
+Email Id: nisha.sharma@krishnacollege.ac.in</string>
+    <string name="as">Department of Applied Sciences is one of the indispensable departments of the Institute. It imparts excellent quality education in the area of Applied Sciences (Mathematics, Physics, and Chemistry) and English and Professional Communication skills for the future technocrats of all streams.\n The department also strives to instill the scientific temper and the spirit of enquiry in students. \nIt encourages the students to understand and therefore apply the physical laws to the development of their fields of study. The Department has well equipped laboratories for Physics, Chemistry and Professional Communication Skills.\n
+The department provides the students with a number of opportunities to develop their overall personality by participating in various cultural and co-curricular activities held throughout the year .\nThe faculty members of the department take very active part in organizing these activities. The department can boast of its highly qualified, experienced and dedicated faculty.\n\n</string>
+    <string name="cs">The aim of the department is to provide high quality education along with training the students with all the new advancements in the computers field. The department places emphasis on all the important aspects of computers such as High speed networks, mobile networks , Algorithm Design, Operational research, Advance database systems, Theory of computation , Computer Graphics, Software Engineering and many more. The department also takes initiative to improve the soft skills, analytical capabilities and verbal communication of the students so that they can face the competition in the corporate world confidently. </string>
+    <string name="ec">The Department is headed by a highly experienced Head of Department Prof. (Dr.) A.N. Mishra.\n He has strong research background based on speech recognition, noise robust acoustic feature extraction, audio-visual speech recognition.\n He has rich experience of working in a team actively and collaboratively, and also strong motivation to advancement of speech technology research. \nThe department comprises of faculty who have excelled in various fields of Electronics and Communication. The department conducts workshops, symposia and faculty development programs regularly for improving the teaching and learning quality. \nOur students are implementing their skills and the knowledge in the companies such as HP, Tech Mahindra, Mentor Graphics, Robotech Pvt. Ltd., HCL Technologies, TCS, IBM India, Genpact, etc as Telecom Engineer, Circuit Designer, Software Engineer, etc. </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="it">Vision:\n
+To become a centre of excellence and to produce high quality, creative and ethical engineers and technologists, contributing effectively to the industry of information technology and society.\n
+Mision:\n
+To provide best academics, research, industrial exposure, socio-ethical responsibilities which enhances the personality of each student to become entrepreneur and self-motivated citizens.\n
+To produce highly competent and socially conscious information technology professionals and entrepreneurs for the benefit of industry and society.</string>
+    <string name="ee">Established in 2004, the department of Electrical and Electronics Engineering has been playing a vital role in producing technologist in this core branch of Engineering.\n With technically enriched Machine and Power System Laboratory, the students of Electrical and Electronics branch are fortunate enough to study the basics of both the fields of Engineering.\n The department runs 8 semester Under Graduate course with electives in advanced power systems, renewable energy and Satellite communication technology.\n Besides the department also runs various skill development programs like Electric motor winding, software based designing and simulation for skill based development of the students. \nConsidering the future of energy from alternative and renewable sources, the Department is striving for setting up a Center of Excellence in the field of Solar photovoltaic by pursuing Innovation and Creativity. \nThe department have distinguished faculty with PhD degree from renowned University and pursuing for PhD.\n Students of EN department have performed exceptionally well in academics and brought laurels to the college by participating in various competitions in India and abroad.\n The department provides ample scope for research and skill development.</string>
+    <string name="me">Vision\n
+
+To be recognized as a centre of excellence in academics and research in mechanical engineering, with state-of-the-art laboratories, good teaching infrastructure and qualified faculty to nurture and support scholars to become global players.\n
+
+Mission: \n
+
+M1: To equip our graduates with the knowledge and expertise with extra emphasis on technical and soft skills, having cross cultural adaptability, to contribute significantly to the industry and society as a whole.\n
+\n
+M2: To provide a platform where both faculty and students engage in scholarly research activities and also nurture their entrepreneurial and interpersonal skills.\nAim: \nThe aim of mechanical department to give graduates the necessary skills but also to shape the thinking and team-working spirit to ensure the best prospects for successful careers and / or further study within the heavy demands of modern times.\n </string>
+    <string name="ce">Civil engineering is the oldest and broadest engineering discipline among all the engineering fields.\n The field deals with the planning, designing, and construction of buildings and various other structures.\n From huge dams to sky high buildings, from suspension bridges to offshore drilling platforms, every physical concrete structure comes under civil engineering.\n Civil engineers are involved in monitoring and guiding as well as devising and designing the building of roads, girders, bridges, airports, tunnels, dams, water and sewage systems and other structures.\n
+
+The Department of Civil Engineering at KEC Ghaziabad is committed to academic excellence, research and development since its formation in the academic session 2014-15.\n The department is growing steadily with expert faculties in areas such as analysis and design of structures, hydraulics and hydrology, water resources, geotechnical engineering, construction technology and management, environment engineering, basic and advanced surveying.\n
+
+The vision of the department is to give an exposure to budding civil technocrats to various challenges in the profession. </string>
+    <string name="hd">Aim: \n
+The Department of Humanities play a significant role in developing students into true professionals ready to take on the business dynamics with great zeal and conviction.\n We aim to train future Technocrats/Engineering Managers through concerted efforts and careful nurturing. \nThe department caters for academic curriculum as per University syllabus in B Tech 2nd yr, 3rd yr and 4th yr across all branches.\n
+
+The students are taught Industrial Psychology and Industrial Sociology with an objective to make them familiar with industrial set up and corresponding behavioral patterns.\n The knowledge of Human values and Professional ethics ensure their right understanding in order to identify and establish the ultimate goals of life. \nEngineering Economics and Industrial Management enable them correlate their projects with the financial components in an industrial setting.\n We also develop the students keen to be the entrepreneurs, by imparting an in depth knowledge about the Entrepreneurship and basic requirements in setting up a small scale industry.\n
+
+Vision:\n
+Empowering students from diverse backgrounds to become productive and ethical technocrats/ Engineering Managers.\n
+
+Mision:\n
+The Department of Management Studies has created new TEMPO in technical and managerial education with sole mission of converting students into true professionals and is committed to excellence in integrated technology, experiential education, professional enrichment, career orientation and student’s advancement.</string>
+    <string name="phone"> Phone : <b>0120-2657731/32</b> </string>
+    <string name="phone2">Directors Direct Number: <b>0120-2659513</b> </string>
+    <string name="car"><b>Current Openings</b>\nApplications are invited from energetic, enthusiastic and stable academicians and professionals to further the cause of a leading institute of UPTU which has motto of Inspired Learning, Enhanced visibility and Digital Connect with the world. </string>
+<string name="admission3"><b>B.TECH. PROGRAMME (FOUR YEAR DEGREE COURSE)</b>\n
+Computer Science and Engineering 	240 Seats\n
+Information Technology          	60 Seats\n
+Electrical and Electronics Engineering 	60 Seats\n
+Electronics and Communications Engineering 	120 Seats\n
+Mechanical Engineering 	180 Seats\n
+Civil Engineering 	60 Seats</string>
+
+    <string name="admission4">1.	12th Marksheet 	Photocopy	Photocopy\n
+2.	10th Certificate, Marksheet	Photocopy	Photocopy\n
+3.	Aadhaar Card 	Photocopy	Photocopy\n
+4.	Transfer Certificate for those candidate passed out from U.P.Board	Original	Photocopy\n
+5.	Migration Certificate for those candidate passed out from CBSE/ICSE/Other board	Original	Photocopy\n
+6.	Affidavit for gap period (if case of passed before 2017)	Original	Photocopy\n
+7.	Caste Certificate (only for OBC/SC/ST)	Photocopy	Photocopy\n
+8.	Character Certificate	Original	Photocopy\n
+9.	Medical Certificate 9 and 10 issued by CMO/Registered MBBS	Original	Photocopy\n
+10.	Domicile Certificate of Father	Photocopy	Photocopy\n
+11.	UPSEE Allotment Letter (in case of admitted through UPSEE Counselling-2017)	Original	Photocopy\n
+12.	Fee Receipt (Deposited at college)	Photocopy	Photocopy\n
+13.	Passport size photograph 10 color and 5 in B and W	 \n
+14.	Passport size photograph Father, Mother, Local Guardian (3 each)\n
+15.	Affidavit on Rs. 10/- stamp paper duly notarized	 \n
+ 	a. Undertaking for admission 	Original\n
+ 	b. Anti-Ragging(UGC Annexure-I) signed by the students	Original\n
+ 	c. Anti-Ragging(UGC Annexure-II) signed by the parents	Original\n
+16.	Affidavit for attendance on Rs. 100/- stamp paper duly notarized\n	</string>
+</resources>

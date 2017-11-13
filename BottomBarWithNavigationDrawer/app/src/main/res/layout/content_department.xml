@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Departments"
+            android:background="@color/colorPrimaryLight"
+            android:textAlignment="center"
+            android:paddingTop="5dp"
+            android:textSize="25dp"
+            android:id="@+id/textView14"/>
+
+        <TextView
+                android:id="@+id/textView15"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Department of Applied Science"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                android:layout_below="@+id/textView14"/>
+        <ImageView
+            android:layout_width="380dp"
+            android:layout_height="150dp"
+            android:id="@+id/asimage"
+            android:src="@drawable/appliedscience"
+            android:layout_below="@+id/textView15"/>
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/as"
+            android:layout_below="@+id/asimage"/>
+
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/textView16"
+            android:layout_height="50dp"
+            android:textAlignment="center"
+            android:text="Department of Computer Science and Engineering"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
+        <ImageView
+            android:layout_width="380dp"
+            android:layout_height="190dp"
+            android:id="@+id/csimage"
+            android:src="@drawable/cs"
+            android:layout_below="@+id/textView17"/>
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:paddingTop="10dp"
+            android:layout_height="wrap_content"
+            android:text="@string/cs"
+            android:layout_below="@+id/csimage"/>
+
+
+
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/textView18"
+            android:layout_height="60dp"
+            android:textAlignment="center"
+            android:text="Department of Electronics and Communication Engineering"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
+        <ImageView
+            android:layout_width="350dp"
+            android:layout_height="100dp"
+            android:id="@+id/ec"
+            android:src="@drawable/ece"
+            android:layout_below="@+id/textView19"/>
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:paddingTop="10dp"
+            android:layout_height="wrap_content"
+            android:text="@string/cs"
+            android:layout_below="@+id/ec"/>
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
