@@ -165,7 +165,7 @@ public class MainActivity extends AppCompatActivity {
 
                                 //intent = new Intent(MainActivity.this, Class.class);
                             } else if (drawerItem.getIdentifier() == 11) {
-                                intent = new Intent(MainActivity.this, Training.class);
+                                intent = new Intent(MainActivity.this, MainActivity3.class);
 
                                 //intent = new Intent(MainActivity.this, Class.class);
                             } else if (drawerItem.getIdentifier() == 12) {

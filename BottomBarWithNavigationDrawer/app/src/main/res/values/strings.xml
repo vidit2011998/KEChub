@@ -96,13 +96,7 @@ Candidates who have passed ‘3 years B.Sc. Degree and passed XII standard with 
 
 2. DIRECT ADMISSION (LATERAL ENTRY) TO SECOND YEAR UNDER VACANT SEATS\n
 As notified in UPSEE Information Brochure – 2017-18 </string>
-    <string name="shilpi">
-        Ms. Shilpi Vaish
 
-Designation: Soft Skills Trainer
-Qualification: PGDBM, B. Tech(IT)
-Total Exp: 8 Years
-Email Id: shilpirana27@gmail.com</string>
     <string name="nisha">Ms. Nisha Sharma\n
 
 Designation: Soft Skills Trainer\n
@@ -149,7 +143,7 @@ The Department of Management Studies has created new TEMPO in technical and mana
     <string name="phone"> Phone : <b>0120-2657731/32</b> </string>
     <string name="phone2">Directors Direct Number: <b>0120-2659513</b> </string>
     <string name="car"><b>Current Openings</b>\nApplications are invited from energetic, enthusiastic and stable academicians and professionals to further the cause of a leading institute of UPTU which has motto of Inspired Learning, Enhanced visibility and Digital Connect with the world. </string>
-<string name="admission3"><b>B.TECH. PROGRAMME (FOUR YEAR DEGREE COURSE)</b>\n
+    <string name="admission3"><b>B.TECH. PROGRAMME (FOUR YEAR DEGREE COURSE)</b>\n
 Computer Science and Engineering 	240 Seats\n
 Information Technology          	60 Seats\n
 Electrical and Electronics Engineering 	60 Seats\n
@@ -176,4 +170,39 @@ Civil Engineering 	60 Seats</string>
  	b. Anti-Ragging(UGC Annexure-I) signed by the students	Original\n
  	c. Anti-Ragging(UGC Annexure-II) signed by the parents	Original\n
 16.	Affidavit for attendance on Rs. 100/- stamp paper duly notarized\n	</string>
+    <string name="shilpi1">
+Ms. Shilpi Vaish\n
+
+Designation: Soft Skills Trainer\n
+Qualification: PGDBM, B. Tech(IT)\n
+Total Exp: 8 Years\n
+Email Id: shilpirana27@gmail.com</string>
+    <string name="renu">Ms. Renu Gautam (Placement Head)\n
+
+Designation: Head - Placement Department
+Qualification: MBA (Marketing)\n
+Total Exp: 14.5 Years\n
+Contact No: 9999110882, 0120-2657731/32(Ext-137)
+Email Id: kecplacementcell@gmail.com</string>
+    <string name="vipin">Mr. Vipin Kumar
+
+Designation: Placement Officer
+Qualification: MBA (HR and Marketing)
+Total Exp: 5.6 Years
+Contact No: 7840013391/8285483391
+Email Id: placement@krishnacollege.ac.in</string>
+    <string name="training">
+
+Towards this the specific KRAs (Key Result Areas) for the Placement Committee are 3 fold as under:\n
+
+1. Initiating series of ON campus and OFF campus recruitments, and making arrangements with corporate organizations for placement of our various students in the areas of Engineering.\n
+2. Placement of students in different companies for summer internship in the fourth and sixth semester.\n
+3. To prepare students in keeping with the changing requirements of business and industry visits to be arranged with good organizations. For the furtherance of this objective guest lectures also to be arranged every month by senior executives/professionals.\n
+\n
+The industry has in the past eagerly sought the intellectual capital of KEC by participating in the final placement process. This year has been no exception as prestigious companies made a beeline for our campus to recruit the best of talent. Truly the ready absorption of our graduates by the industry speaks volumes of not only the excellence of our academic programs but also of the top quality of our highly trained and groomed students.\n
+\n
+Each year our placement process starts with characteristic zeal and gusto. Our enterprising and proactive placement cell which is engaged in organising seminars, guest lectures, conferences, industry visits, summer placements and other corporate events throughout the year begins inviting top corporate for final placement from September onwards.\n
+\n
+This year we have accomplished excellent placements. Our Students have been placed in most prestigious companies such as TCS, HCL Technologies , HP, Cognizant, IBM, R Systems, etc .\n
+</string>
 </resources>
