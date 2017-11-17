@@ -1,0 +1,81 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="website.copyandpaste.bottombarnavigationwithnavigationdrawer.Fragment9">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Mission And Vision"
+                android:textSize="20dp"
+                android:textAlignment="center"
+                android:paddingTop="10dp"
+                android:id="@+id/visionandmission"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/visionandmission"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:text="Vision"
+                android:textSize="15sp"
+                android:id="@+id/vision"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/vision"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="10dp"
+                android:text="@string/vision"
+                android:id="@+id/visiontext"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/visiontext"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="13dp"
+                android:text="Mission"
+                android:textSize="13dp"
+                android:id="@+id/mission"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/mission"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="13dp"
+                android:text="@string/mission"
+                android:textSize="13dp"
+                android:id="@+id/missiontext"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/missiontext"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="13dp"
+                android:text="Quality Policy"
+                android:id="@+id/qp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/qp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="13dp"
+                android:text="@string/quality" />
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

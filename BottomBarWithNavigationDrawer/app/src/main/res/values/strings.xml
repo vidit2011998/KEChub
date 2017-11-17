@@ -2,12 +2,12 @@
     <string name="app_name">Bottom bar with navigation drawer</string>
     <!--Navigation drawer-->
     <string name="drawer_item_option1"> Training and Placement</string>
-    <string name="drawer_item_settings">Settings</string>
+    <string name="drawer_item_settings">Career@KEC</string>
     <string name="drawer_item_help">Help</string>
     <string name="drawer_item_contact">Contact</string>
     <string name="drawer_item_home">Home</string>
     <string name="drawer_item_option2">Departments</string>
-    <string name="drawer_item_option3">Career@KEC</string>
+    <string name="drawer_item_option3">Campus Life</string>
 
     <string name="drawer_item_option11"> About Institute</string>
     <string name="drawer_item_option12"> Admissions and Registrations</string>
@@ -205,4 +205,52 @@ Each year our placement process starts with characteristic zeal and gusto. Our e
 \n
 This year we have accomplished excellent placements. Our Students have been placed in most prestigious companies such as TCS, HCL Technologies , HP, Cognizant, IBM, R Systems, etc .\n
 </string>
+ <string name="directorsMsg">Dr. Sandeep Tiwari   (Director - KEC )
+
+Krishna Engineering College, in its twelve years of existence, has always shown a positive graph of growth in all areas of functionality. The institution has always endeavored to provide a value based academic curriculum to all the enrolled students through well experienced, motivated and highly qualified faculties.
+
+As India moves progressively towards becoming a ‘knowledge economy’ it becomes increasingly important that Professionals/Engineers focus on advancement of skills. Gone are the days when a B.Tech degree from the university with a traditional prescribed curriculum was sufficient to get a job. In the present day knowledge economy and fast changing technical contours, university curriculum coupled with re-added programs and certified add on course are need of the hour to bridge the gap between industry and the academia. To succeed in an era of globalization, rapid changes and fierce competition, engineers must therefore possess a diversity of skills and must meet the market’s requirements.
+
+We, at KEC, focus on cutting edge technology, innovations and creativity, hands on learning with an objective to impart a unique global exposure so as to empower youth to face the brave new world.
+</string>
+    <string name="Aboutmanagement">Krishna Engineering College was launched under a charitable society “Friends Charitable Society (FCS)" -by a group of eminent industrialist and Professionals of Ghaziabad with vast experience in educational system. The members of the society are experienced in running educational institutions, being already associated with other reputed institutions like KIET, AKGEC, IPEC in the region. </string>
+    <string name="vision">To create and establish an Institution that will turn out scholars adept at responding to changes brought about by globalization, be they technological, societal or paradigm shifts in business processes. In conclusion, the scholars will be global players in all respects when they leave the portals of Krishna Engineering College.</string>
+    <string name="mission">To provide an academic and social environment that will stimulate academic excellence, development of cross cultural adaptability, flowering of soft skills and integrate human values and social concerns among students entering the college.
+
+</string>
+    <string name="quality">KEC will strive to build and nurture(for the students):
+
+1.Quality foundation knowledge and core concepts in Engineering.
+
+2.A set of soft skills needed from time to time in a dynamic milieu.
+
+3.Cross cultural awareness and adaptability as a global player.
+
+4.Ability to respond to change effectively be they societal, technological or paradigm shifts in business processes.
+</string>
+    <string name="hostel1">KEC provide an interactive, holistic, healthy and academic oriented environment for students in the Hostel. KEC campus presently has separate hostel facilities for boys and girls. Numbers of seats in various hostels are as follows:</string>
+    <string name="hostel2">KEC ensures provision of all basic necessities in the hostel which includes a well lit, and adequately ventilated spacious rooms. The hostel rooms are allocated on first- come- first- serve basis. Single, double sharing and triple sharing rooms are available in all hostels. Each student gets an individual space containing bed, mattresses, wardrobes, study table with chair, curtains and computer node. Kitchen provides wholesome meals thrice a day. It offers a palatable multi-cuisine menu to resident students.
+
+Students are dealt with utmost care. The administration of hostel is administered by Dean, student affairs, faculty residing in hostel and hostel wardens. Each hostel also have student Prefects to closely monitor the day to day activities in the hostel. The entire hostel facility is maintained by professional housekeeping and maintenance agencies.
+</string>
+    <string name="lib">The KEC Library serves as a place where students as well as faculty members can delve deeper into Their subjects and widen the horizons of their knowledge with the changes World.
+
+The KEC Library has a collection of more than 79194 books of Engineering, Applied Science Humanities, Management etc. It also has ASCE, Willey Blackwell,Springer Membership for online journals and DELNET membership for resource sharing.
+
+In order to help its students and faculty members to keep abreast with the changes happening in the world of technology ,the KEC Library also subscribes to 180 online Journals, periodicals and regional And national newspapers. A substantial collection of CD’s covering the latest programs. The college Also adopt a fully computerized RAMLIB software with bar coding system.
+
+The air conditioned KEC Library is spread across 1005sqm and has sufficient seating capacity. It is Equipped with a reference section , separate reading section for students and faculty members, Digital Section for Opec, Online Journals ,NPTEL facility and DELNET resource sharing.</string>
+    <string name="sup1">
+KEC has 11000 KV HT Power supply with one number 800 KVA transformer and a sanctioned load of 445KVA for entire distribution of power supply in College campus. Separate power house with two 320 KVA, and two 200 KVA D.G sets are used during Power shutdown for the whole campus. All systems are connected to “ON LINE” UPS units with total capacity of 230 KVA.
+
+Students are dealt with utmost care. The administration of hostel is administered by Dean, student affairs, faculty residing in hostel and hostel wardens. Each hostel also have student Prefects to closely monitor the day to day activities in the hostel. The entire hostel facility is maintained by professional housekeeping and maintenance agencies.</string>
+    <string name="sup2">The Reverse Osmosis Plant installed in the KEC caters to the drinking water needs of all the Students, Teachers, supporting Staff and the Visitors. The raw water with an average Total Dissolved Solids [TDS] of 750-1000 ppm is treated to reduce the TDS content to less than 100 ppm the generally acceptable upper limit of the TDS.
+
+This is done in Three stages, namely: Pretreatment, passage of the water through 12 RO membrane filters held in parallel to each other {main process] and Post treatment. The maximum capacity of the plant is 2500-3000 lit/hr and the utilized capacity is 1000 lit/hr. This water is Pure, Tasty and Hygienic rendering it highly suitable for human consumption.
+
+This plant not only facilitates the supply of safe drinking water but also obviates the otherwise involved huge expenditure for procuring drinking water for the large number of people in the campus. Now the institution can be liberal in the provision of our own made RO water.
+
+44 coolers are connected to this plant providing drinking water in every floor of academic blocks, hostels, canteen etc.
+
+All other water related needs are served by the bore wells.</string>
 </resources>

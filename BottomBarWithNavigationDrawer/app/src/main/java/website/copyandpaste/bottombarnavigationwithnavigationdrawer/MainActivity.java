@@ -173,11 +173,11 @@ public class MainActivity extends AppCompatActivity {
 
                                 //intent = new Intent(MainActivity.this, Class.class);
                             } else if (drawerItem.getIdentifier() == 13) {
-                                intent = new Intent(MainActivity.this, Career.class);
+                                intent = new Intent(MainActivity.this, campus.class);
 
                                 //intent = new Intent(MainActivity.this, Class.class);
                             } else if (drawerItem.getIdentifier() == 97) {
-                                intent = new Intent(MainActivity.this, Settings.class);
+                                intent = new Intent(MainActivity.this, Career.class);
                             } else if (drawerItem.getIdentifier() == 98) {
                                 intent = new Intent(MainActivity.this, Help.class);
                             } else if (drawerItem.getIdentifier() == 99) {
